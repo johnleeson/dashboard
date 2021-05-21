@@ -222,7 +222,7 @@
                                 Analytics
                                 <div class="sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
                             </a>
-                            <div class="collaps show" id="collapseAnalytics" data-bs-parent="#accordionSidenav">
+                            <div class="collapse show" id="collapseAnalytics" data-bs-parent="#accordionSidenav">
                                 <nav class="sidenav-menu-nested nav accordion" id="accordionSidenavPages">
                                     <a class="nav-link active" href="currentwork.php">
                                         Current Work
