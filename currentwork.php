@@ -217,14 +217,14 @@
                             <!-- Sidenav Accordion (Dashboard)-->
 
                             <!-- new menu section for analytics - job statuses, KPI data etc -->
-                            <a class="nav-link collapsed" href="javascript:void(0);" data-bs-toggle="collapse" data-bs-target="#collapseAnalytics" aria-expanded="true" aria-controls="collapseAnalytics">
+                            <a class="nav-link collapsed" href="javascript:void(0);" data-bs-toggle="collapse" data-bs-target="#collapseAnalytics" aria-expanded="false" aria-controls="collapseAnalytics">
                                 <div class="nav-link-icon"><i data-feather="activity"></i></div>
                                 Analytics
                                 <div class="sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
                             </a>
                             <div class="collapse" id="collapseAnalytics" data-bs-parent="#accordionSidenav">
                                 <nav class="sidenav-menu-nested nav accordion" id="accordionSidenavPages">
-                                    <a class="nav-link" href="currentwork.php">
+                                    <a class="nav-link active" href="currentwork.php">
                                         Current Work
                                         <span class="badge bg-success-soft text-success ms-auto">LIVE</span>
                                     </a>
