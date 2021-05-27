@@ -23,44 +23,44 @@
                             </a>
                             <!-- Sidenav Menu Heading (Core)--> 
                             <!--<div class="sidenav-menu-heading">Core</div>-->
-                            <div class="sidenav-menu-heading">Menu</div>
-                            <!-- Sidenav Accordion (Dashboard)-->
+                            <div class="sidenav-menu-heading">Work</div>
+                                <!-- Sidenav Accordion (Dashboard)-->
 
-                            <!-- new menu section for analytics - job statuses, KPI data etc -->
-                            <a class="nav-link" href="javascript:void(0);" data-bs-toggle="collapse" data-bs-target="#collapseAnalytics" aria-expanded="false" aria-controls="collapseAnalytics">
-                                <div class="nav-link-icon"><i data-feather="activity"></i></div>
-                                Analytics
-                                <div class="sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
-                            </a>
-                            <div class="collapse" id="collapseAnalytics" data-bs-parent="#accordionSidenav">
-                                <nav class="sidenav-menu-nested nav accordion" id="accordionSidenavPages">
-                                    <a class="nav-link" href="currentwork.php">
-                                        Current Work
-                                        <span class="badge bg-success-soft text-success ms-auto">LIVE</span>
-                                    </a>
-                                    <a class="nav-link" href="dashboard-2.html">KPI information</a>
-                                    <a class="nav-link" href="dashboard-1.html">History</a>
-                                </nav>
-                            </div>
+                                <!-- new menu section for analytics - job statuses, KPI data etc -->
+                                <a class="nav-link" href="javascript:void(0);" data-bs-toggle="collapse" data-bs-target="#collapseAnalytics" aria-expanded="false" aria-controls="collapseAnalytics">
+                                    <div class="nav-link-icon"><i data-feather="activity"></i></div>
+                                    Analytics
+                                    <div class="sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                                </a>
+                                    <div class="collapse" id="collapseAnalytics" data-bs-parent="#accordionSidenav">
+                                        <nav class="sidenav-menu-nested nav accordion" id="accordionSidenavPages">
+                                            <a class="nav-link" href="currentwork.php">
+                                                Current Work
+                                                <span class="badge bg-success-soft text-success ms-auto">LIVE</span>
+                                            </a>
+                                            <a class="nav-link" href="dashboard-2.html">KPI information</a>
+                                            <a class="nav-link" href="dashboard-1.html">History</a>
+                                        </nav>
+                                    </div>
 
 
-                            <a class="nav-link collapsed" href="javascript:void(0);" data-bs-toggle="collapse" data-bs-target="#collapseDashboards" aria-expanded="false" aria-controls="collapseDashboards">
-                                <div class="nav-link-icon"><i data-feather="activity"></i></div>
-                                Dashboards
-                                <div class="sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
-                            </a>
-                            <div class="collapse" id="collapseDashboards" data-bs-parent="#accordionSidenav">
-                                <nav class="sidenav-menu-nested nav accordion" id="accordionSidenavPages">
-                                    <a class="nav-link" href="dashboard-1.html">
-                                        Default
-                                        <span class="badge bg-primary-soft text-primary ms-auto">Updated</span>
-                                    </a>
-                                    <a class="nav-link" href="dashboard-2.html">Multipurpose</a>
-                                    <a class="nav-link" href="dashboard-3.html">Affiliate</a>
-                                </nav>
-                            </div>
+                                <a class="nav-link collapsed" href="javascript:void(0);" data-bs-toggle="collapse" data-bs-target="#collapseDashboards" aria-expanded="false" aria-controls="collapseDashboards">
+                                    <div class="nav-link-icon"><i data-feather="activity"></i></div>
+                                    Dashboards
+                                    <div class="sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                                </a>
+                                <div class="collapse" id="collapseDashboards" data-bs-parent="#accordionSidenav">
+                                    <nav class="sidenav-menu-nested nav accordion" id="accordionSidenavPages">
+                                        <a class="nav-link" href="dashboard-1.html">
+                                            Default
+                                            <span class="badge bg-primary-soft text-primary ms-auto">Updated</span>
+                                        </a>
+                                        <a class="nav-link" href="dashboard-2.html">Multipurpose</a>
+                                        <a class="nav-link" href="dashboard-3.html">Affiliate</a>
+                                    </nav>
+                                </div>
                             <!-- Sidenav Heading (App Views)-->
-                            <div class="sidenav-menu-heading">App Views</div>
+                            <div class="sidenav-menu-heading">Documents</div>
                             <!-- Sidenav Accordion (Pages)-->
                             <a class="nav-link collapsed" href="javascript:void(0);" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
                                 <div class="nav-link-icon"><i data-feather="grid"></i></div>
