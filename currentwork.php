@@ -15,6 +15,8 @@
     </head>
     <body class="nav-fixed">
         
+        <?php include("TopBar.php"); ?>
+
         <div id="layoutSidenav">
             <div id="layoutSidenav_nav">
                 <nav class="sidenav shadow-right sidenav-light">
