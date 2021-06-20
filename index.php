@@ -22,7 +22,7 @@
                                 <!-- Basic login form-->
                                <div class="card shadow-lg border-0 rounded-lg mt-5">
                                 
-                                    <img class="card-img-top" src="assets/img/logo.png" alt="..."> 
+                                    <img class="card-img-top" src="assets/img/flame.jpg" alt="..."> 
                                     <!--<div class="card-header justify-content-center"><h3 class="fw-light my-4">Login</h3></div>-->
                                     <div class="card-body">
                                         <!-- Login form-->
