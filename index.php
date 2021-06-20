@@ -27,8 +27,8 @@
                                         <form>
                                             <!-- Form Group (email address)-->
                                             <div class="mb-3">
-                                                <label class="small mb-1" for="inputEmailAddress">Email</label>
-                                                <input class="form-control" id="inputEmailAddress" type="email" placeholder="Enter email address" />
+                                                <label class="small mb-1" for="inputEmailAddress">Username</label>
+                                                <input class="form-control" id="inputEmailAddress" type="email" placeholder="Enter username" />
                                             </div>
                                             <!-- Form Group (password)-->
                                             <div class="mb-3">
@@ -36,21 +36,21 @@
                                                 <input class="form-control" id="inputPassword" type="password" placeholder="Enter password" />
                                             </div>
                                             <!-- Form Group (remember password checkbox)-->
-                                            <div class="mb-3">
+                                            <!--<div class="mb-3">
                                                 <div class="form-check">
                                                     <input class="form-check-input" id="rememberPasswordCheck" type="checkbox" value="" />
                                                     <label class="form-check-label" for="rememberPasswordCheck">Remember password</label>
                                                 </div>
-                                            </div>
+                                            </div>-->
                                             <!-- Form Group (login box)-->
                                             <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
-                                                <a class="small" href="auth-password-basic.html">Forgot Password?</a>
+                                               <!-- <a class="small" href="auth-password-basic.html">Forgot Password?</a> --->
                                                 <a class="btn btn-primary" href="dashboard-1.html">Login</a>
                                             </div>
                                         </form>
                                     </div>
                                     <div class="card-footer text-center">
-                                        <div class="small"><a href="auth-register-basic.html">Need an account? Sign up!</a></div>
+                                        <div class="small"><a href="auth-register-basic.html">Need an account? Contact Zenith Mechanical Services</a></div>
                                     </div>
                                 </div>
                             </div>
